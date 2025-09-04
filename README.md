@@ -4,7 +4,7 @@
 Live Link -  https://quiz-app-psi-cyan.vercel.app/
 
 A simple and modern quiz app for students to practice and test their skills.  
-Built by **Vasu Tripathi**.
+Built by **Prithvi Chauhan**.
 ---
 
 ##  What it does
@@ -22,7 +22,7 @@ Built by **Vasu Tripathi**.
 ##  How to run it
 1. Clone this repo  
    
-   git clone https://github.com/VasuTripathi/Quiz-App.git
+   git clone (https://github.com/PrithviChauhan06/Quiz-Game/tree/main/Quiz-App-main)
    cd Quiz-App
    
 
@@ -38,6 +38,6 @@ Built by **Vasu Tripathi**.
    Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
  App live at:  
-[https://VasuTripathi.github.io/Quiz-App/](https://VasuTripathi.github.io/Quiz-App/)
+https://github.com/PrithviChauhan06/Quiz-Game/tree/main/Quiz-App-main
 
 
