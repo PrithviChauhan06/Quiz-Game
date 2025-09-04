@@ -1,7 +1,7 @@
 
 # Quiz App 
 
-Live Link -  https://quiz-app-psi-cyan.vercel.app/
+
 
 A simple and modern quiz app for students to practice and test their skills.  
 Built by **Prithvi Chauhan**.
@@ -37,7 +37,6 @@ Built by **Prithvi Chauhan**.
    
    Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
- App live at:  
-https://github.com/PrithviChauhan06/Quiz-Game/tree/main/Quiz-App-main
+
 
 
