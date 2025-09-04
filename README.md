@@ -1,1 +1,3 @@
-# Quiz-Game
+Step To Run
+npm install
+npm run dev
